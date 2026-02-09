@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ガジュマル ～Heaven in the Rain～",
+  "base_artist": "ReoNa",
+  "createdAt": "2026-02-09T03:54:52.776999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガジュマル ～Heaven in the Rain～",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_ガジュマル_~Heaven_in_the_Rain~_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガジュマル 〜Heaven in the Rain〜",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_ガジュマル_〜Heaven_in_the_Rain〜_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガジュマル ～Heaven in the Rain～",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/03_ガジュマル_~Heaven_in_the_Rain~_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガジュマル ～Heaven in the Rain～ [instrumental]",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/04_ガジュマル_~Heaven_in_the_Rain~_[instrumental]_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ガジュマル ～Heaven in the Rain～ - Gajumaru Heaven in the Rain",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_ガジュマル_~Heaven_in_the_Rain~_-_Gajumaru_Heaven_in_the_Rain_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ガジュマル ～Heaven in the Rain～ -Instrumental-",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/06_ガジュマル_~Heaven_in_the_Rain~_-Instrumental-_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガジュマル ～Heaven in the Rain～",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_ガジュマル_~Heaven_in_the_Rain~_ReoNa.txt"
+    }
+  ]
+}
